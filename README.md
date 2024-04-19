@@ -5,6 +5,9 @@
 Name: Devnath.N.S<br>
 Roll Number: AM.SC.U4CYS23021
 
+Host Machine OS: Windows 11
+Guest Machine: Kali Linux (Virtualbox)
+
 [Task-0](ECS%20Lab%204%2063e8d4342e8a4d0292df52e690421506/Task-0%208bfffa53c9d74ca180b1be93a8451ea4.md)
 
 [Task-1](ECS%20Lab%204%2063e8d4342e8a4d0292df52e690421506/Task-1%20d99f9bf80a324c599401eef8b125609f.md)
